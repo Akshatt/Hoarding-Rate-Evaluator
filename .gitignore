@@ -2,3 +2,8 @@ Include/*
 Lib/*
 Scripts/*
 tcl/*
+templates/.npmignore
+templates/bower.json
+templates/package.json
+templates/gulpfile.js
+pip-selfcheck.json
