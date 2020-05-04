@@ -3,5 +3,12 @@ A clustering based ranking web application which ranks the billboards according 
 Created as a final year project
 
 ## Running Project
-**Home Page**
-![](/static/assets/img/Home Screen.png)
+*Home Page*:
+![home page](/static/assets/img/HomeScreen.png)
+
+*User Input*:
+![User Input](/static/assets/img/ExtractingData.png)
+
+*Output*:
+![Output](/static/assets/img/Output1.png)
+![Output](/static/assets/img/Output2.png)
