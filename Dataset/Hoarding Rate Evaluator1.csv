@@ -1,0 +1,61 @@
+Location,Address,Size of Billboard,Literacy Rate,Male,Female,Young,Middle Age,Old Age,Poor,Middle Class,Rich,Cost,Vehicle Count
+Andheri (EAST) 23143,"Vakola Flyover: Western Express Highway, Opp Reliance Energy",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,350000,9720
+Andheri (EAST) 28112,"Western Express Highway Andheri, Jog Flyover, Traffic from andheri towards Bandra",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,140000,7750
+Andheri (EAST) 36847,"Beside Synergizing Technologies, Traffic From Vile Parle Towards Malpa Dongri (Right Hand Side)",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,129000,7550
+Andheri (EAST) 37139,"Before Andheri Flyover, Traffic from Malpa Dongri, Towards Shivaji Maharaj Smarak",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,100000,5900
+Andheri (EAST) 37714,"WEH Andheri Pump house , Traffic From Andheri East Towards Kandivali East",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,131000,7600
+Andheri (EAST) 37254,"Near Sai Service, Traffic From Vile Parle Towards Goregoan",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,164000,8000
+Andheri (EAST) 36819,"Beside Sant Nirankari Satsang Bhawan, Traffic towards Jijamata Colony",400,91.6,53.475,46.525,45,49.8,5.2,51,17,32,41000,5500
+Andheri (EAST) 36846,"Beside Synergizing Technologies, Traffic towards Malpa Dongri",1600,91.6,53.475,46.525,45,49.8,5.2,51,17,32,105000,6350
+Andheri (EAST) 36849,"Beside Viraj Towers, Traffic From Sai Wadi Towards Verma Nagar",1560,91.6,53.475,46.525,45,49.8,5.2,51,17,32,35000,5250
+Andheri (EAST) 37741,"Beside Accelya, Traffic From Powai Towards Andheri East",625,91.6,53.475,46.525,45,49.8,5.2,51,17,32,66000,6500
+Chembur 14380,"Chembur ,From Priyadarshini Towards Dadar, Sion and BKC",1600,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,99500,6700
+Chembur 23181,"Chembur : SCLR Flyover, After Amar Mahal Junction towards EEH",1600,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,117500,7150
+Chembur 23184,"Chembur Flyover : Sukh Shanti Ashram, Traffic from New Bombay to Sion",800,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,23500,4500
+Chembur 36902,"Beside Bhabha Atomic Research Center Quarter, Traffic towards Siddharth Colony",500,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,35000,5225
+Chembur 37925,"Beside Rashtriya Chemicals and Fertilizers Limited, Traffic towards Vikhroli",820,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,82000,6950
+Chembur 37155,"Near Amar Mahal, Chembur, Traffic from Ghatkopar west towards Kurla Highway Crossing",1200,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,70000,6550
+Chembur 37469,"Near Tata Institute of Social Sciences, Traffic from Chembur towards Vashi (RHS)",900,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,234000,9550
+Chembur 36900,"Beside Murli Building Ganpati Temple, Traffic From Munjal Nagar towards Kirol Gaon (LHS)",1680,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,31000,4600
+Chembur 36901,"Beside Bharat Petroleum Metro Station, Traffic from SV Patel Nagar towards Laxmi Colony (LHS)",600,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,30000,4725
+Chembur 36988,"Opposite Maharana Kamath, Traffic From Chembur towards Lalbaug (RHS)",128,83.4,54.054,45.946,45,49.8,5.2,64.7,15.3,20,47000,5500
+"Borivali West , 37149","Near Eskay Resort, Traffic from Lokmanya Tilak Chowk towards Sardar Vallabhai College",1600,92.9,50.15,49.85,45,49.8,5.2,58,27,15,82000,6350
+Borivali East,Near National Park Flyover,1100,92.9,50.15,49.85,45,49.8,5.2,58,27,15,47000,5650
+"Borivali West,36890","Beside Mandpeshwar Nursing Home, Near Daulat Nagar Flyover",800,92.9,50.15,49.85,45,49.8,5.2,58,27,15,30000,5200
+"Borivali East, 37147",Opposite Borivali East Station,900,92.9,50.15,49.85,45,49.8,5.2,58,27,15,94000,6990
+"Borivali East, 37193","Near Sanjay Gandhi National Park, Traffic From Borivali Towards Mira Bhayandar",1200,92.9,50.15,49.85,45,49.8,5.2,58,27,15,59000,6330
+"Borivali West, 37192","Borivali Flyover, from East to West",400,92.9,50.15,49.85,45,49.8,5.2,58,27,15,53000,5925
+"Borivali East, 37194",Near National Park,800,92.9,50.15,49.85,45,49.8,5.2,58,27,15,47000,5500
+"Borivali East, 37148","Opposite Rustomjee International School, Borivali East",420,92.9,50.15,49.85,45,49.8,5.2,58,27,15,47000,5620
+"Borivali West, 36880","Beside LN College, Borivali West",400,92.9,50.15,49.85,45,49.8,5.2,58,27,15,47000,5750
+"Borivali East, 36885",Opposite Borivali Metro Station,400,92.9,50.15,49.85,45,49.8,5.2,58,27,15,47000,5660
+"Goregaon West, 36865","Beside Bank of Baroada, Subash Nagar",1600,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,47000,5700
+"Goregaon West, 36864","Near State Bank of India, Subash Nagar",2400,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,164000,8250
+"Goregaon West, 37422",Near ACME Industrial Estate,1600,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,140000,7850
+"Goregaon West, 37520","Beside ACME Industrial Estate, Goregaon West",800,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,76000,6220
+"Goregaon, 37716","Opposite Doodh Sagar CHS, Aarey Flyover",1600,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,164000,8450
+"Goregaon, 36852","Next To Nirlon Knowledge Park B7, Oshiwara",1600,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,59000,5800
+"Goregaon, 36853","Next To Nirlon Knowledge Park B7, Oshiwara, Mrinaltai Flyover",800,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,140000,7770
+"Goregaon, 36854","Next To Nirlon Knowledge Park B7, Oshiwara, Mrinal Tai Flyover",800,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,140000,7850
+"Goregaon, 37267",Near Unify Search Solutions Pvt Ltd,900,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,110000,7350
+"Goregaon West, 36855","Next To RBL Bank, Goregaon Flyover",2025,90.3,53.8,46.2,45,49.8,5.2,45,16.1,38.9,117000,7440
+Andheri (EAST) 37141,"Near Chakala Ciggerate Company, Traffic from Saki Naka Signal",1600,91.6,53.475,46.525,45,49.8,5.2,58.8,2.2,39,58000,6200
+Andheri (EAST) 37181,"Saki Naka, Traffic From Powai Towards Andheri",800,91.6,53.475,46.525,45,49.8,5.2,58.8,2.2,39,59000,6320
+Andheri (EAST) 37740,"Beside Accelya, Traffic From Powai Towards Andheri Flyover",625,91.6,53.475,46.525,45,49.8,5.2,58.8,2.2,39,66000,6450
+Andheri (EAST) 37252,"Opposite Glenmark Pharmaceuticals Limited, Traffic from Andheri Flyover",1600,91.6,53.475,46.525,45,49.8,5.2,58.8,2.2,39,164000,8350
+Andheri (EAST) 37715,"Beside JK Regency, Traffic From Vile Parle Towards Andheri Subway",1600,91.6,53.475,46.525,45,49.8,5.2,58.8,2.2,39,164000,8440
+Chembur 22312,"Chembur Colony, Gidwani Marg, Chembur",148,83.4,54.054,45.946,45,49.8,5.2,64.7,2.7,32.6,6000,3200
+Chembur 22291,"R. K. Studio, V. N. Purav Road, Chembur",118,83.4,54.054,45.946,45,49.8,5.2,64.7,2.7,32.6,23500,4320
+Chembur 28101,"On Eastern Express Highway, SCLR Flyover Traffic ",1600,83.4,54.054,45.946,45,49.8,5.2,64.7,2.7,32.6,60000,5890
+Chembur 23182,"Chembur : SCLR Flyover, Before Amar Mahal Junction",1600,83.4,54.054,45.946,45,49.8,5.2,64.7,2.7,32.6,117000,7560
+Chembur 37475,"Near RK Studio, Traffic From Chembur ",360,83.4,54.054,45.946,45,49.8,5.2,64.7,2.7,32.6,117000,7700
+"Borivali East, 36887","Beside Microzyme, Traffic From Ashok Van Towards Devipada",800,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,35000,4880
+"Borivali West, 36881","Besides Bank Of Baroda, Traffic From Gokul Dham Society Towards Borivali",820,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,53000,5450
+"Borivali West, 37493","Beside HDFC Bank, Near Chamunda Circle, Traffic From Borivali West Towards Borival",320,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,41000,4990
+"Borivali West, 36879","Beside Borivali West Post Office, Traffic From Chikoowadi Towards Magathane",400,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,53000,5590
+"Borivali East, 36886",Opposite Borivali Metro Station,400,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,35000,4800
+"Borivali East, 36877","Beside BMC Office, Traffic From Magathane Towards Gokul Dham Society",400,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,53000,5440
+"Borivali East, 36889","Beside Microzyme, Traffic From Ashok Van Towards Devipada",800,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,35000,4820
+"Borivali East, 36878","Beside BMC Office, Traffic From Gokul Dham Society Towards Magathane",400,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,53000,5380
+"Borivali East, 37514",Near Surbhi Hotel,128,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,10500,3450
+"Borivali West, 36882","Besides Bank Of Baroda, Traffic From Gokul Dham Society Towards Borivali",200,92.9,50.15,49.85,45,49.8,5.2,59.8,2.1,38.1,41000,5050
