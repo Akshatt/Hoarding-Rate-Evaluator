@@ -4,10 +4,10 @@ Created as a final year project
 
 ## Running Project
 *Home Page*:
-![home page](/static/assets/img/HomeScreen.png)
+![Homepage](/static/assets/img/HomeScreen.png)
 
 *User Input*:
-![User Input](/static/assets/img/ExtractingData.png)
+![UserInput](/static/assets/img/ExtractingData.png)
 
 *Output*:
 ![Output](/static/assets/img/Output1.png)
