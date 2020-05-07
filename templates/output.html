@@ -63,17 +63,16 @@
                         </div>
                     </div>
                 </div>
+
                 {% for i in result_list[:5] %}
                 <div class="col-md-8 ml-auto mr-auto">
-                    <div class="card" style="width: 100%;">
-
+                    <div class="card" style="width:100%;">
                         <div class="card-body">
-                            <h5 class="card-title">{% print(i[0]) %}</h5>
+                            <h5 class="card-title"><a href="{% print(i[5]) %}">{% print(i[0]) %}</a></h5>
                             <p class="card-text">Address: {% print(i[1]) %} </p>
                             <p class="card-text">Size of the Billboard: {% print(i[2]) %} m<sup>2</sup></p>
                             <p class="card-text">Daily vehicle count: {% print(i[4]) %} </p>
                             <p class="card-text" style="float:right"> &#8360; {% print(i[3]) %} </p>
-
                         </div>
                     </div>
                 </div>
