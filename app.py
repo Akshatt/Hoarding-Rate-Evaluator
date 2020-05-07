@@ -121,7 +121,7 @@ def output():
 
     #running the DBSCAN algorithm
     sil_score = [] 
-    DBS_clustering = DBSCAN(125, 5).fit(X_numerics)
+    DBS_clustering = DBSCAN(45, 8).fit(X_numerics)
     sil_score.append(silhouette_score(X_numerics, DBS_clustering.labels_))
     #print("\nSilhouette score: ",sil_score)
 
@@ -141,7 +141,7 @@ def output():
             dct[labels[i]].append(data[0][i+1])
 
     #Selecting the cluster which has x_data
-    final_dct = {'Location': [],'Address': [],'Billboard_Size':[],'Lit_rate':[],'male': [],'female':[],'young':[],'middle-aged':[],'old':[],'poor':[],'middle':[],'rich':[],'Vehicle_Count':[],'Cost':[]}
+    final_dct = {'Location': [],'Address': [],'Billboard_Size':[],'Lit_rate':[],'male': [],'female':[],'young':[],'middle-aged':[],'old':[],'poor':[],'middle':[],'rich':[],'Vehicle_Count':[],'Cost':[],'Link':[]}
     for k,v in dct.items():
          if 'X' in dct[k]:
              for i in dct[k]:
@@ -166,16 +166,16 @@ def output():
                 final_dct['rich'].append(float(data[11][j]))
                 final_dct['Cost'].append(int(data[12][j]))
                 final_dct['Vehicle_Count'].append(int(data[13][j]))
+                final_dct['Link'].append(data[14][j])            
             
-            
-    #ranking the hoardings based on size,vehcile count, cost 
+    #ranking the hoardings based on size,vehcile count, cost  
     df = pd.DataFrame(final_dct)
     df = df[df['Cost'] <= budget]
     df['ranking'] = df.Billboard_Size * 0.3 + df.Vehicle_Count * 0.4 + df.Lit_rate * 0.2 + (df.male//df.female) * 0.1 
     df = df.sort_values(by ='ranking', ascending=False)
-    df = df.head(10)  
+    df = df.head(8)  
 
-    result_list = df[['Location','Address','Billboard_Size','Cost','Vehicle_Count']].values.tolist()    
+    result_list = df[['Location','Address','Billboard_Size','Cost','Vehicle_Count','Link']].values.tolist()    
  
     return render_template("output.html", result_list=result_list)
     
